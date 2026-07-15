@@ -1,10 +1,11 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4A8CFF&text=Hi,%20I%20am%20Nyxoria&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false" />
 </p>
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4A8CFF&center=true&vCenter=true&width=800&lines=Hi%2C+Welcome+to+My+Profile;Student+@+SMKN+1+Boyolangu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4A8CFF&center=true&vCenter=true&width=800&lines=Hi%2C+Welcome+to+My+Profile;Student+@+SMKN+1+Boyolangu" alt="Typing SVG" />
 </h3>
 
 <p align="center">
