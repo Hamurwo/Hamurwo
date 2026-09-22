@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Gmail-nyxoria%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sri-muhammad-hamurwo-bumi">
-    <img src="https://img.shields.io/badge/LinkedIn-sri--muhammad--hamurwo--bumi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%40sri--muhammad--hamurwo--bumi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/bbumzxc__">
     <img src="https://img.shields.io/badge/Instagram-%40bbumzxc____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
