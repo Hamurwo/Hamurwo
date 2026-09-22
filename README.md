@@ -17,7 +17,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,cpp,python,php,arduino,mysql,git,linux,arch,wordpress,laravel&perline=7" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,cpp,python,php,laravel,arduino,mysql,git,linux,arch,wordpress&perline=7" alt="tech stack icons"/>
 </p>
 
 <br>
